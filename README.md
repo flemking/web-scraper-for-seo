@@ -2,7 +2,11 @@
 
 ## Python Web Scraping Tool for SEO
 
-First we need to activate the python env with: `source ./scrap_env/bin/activate`
+Installer Selenium: `pip3 install selenium`
 
-To run the code just type:
+Le project utilise le Chromedriver 110, telechargez le chromedriver selon votre version de Chrome <https://chromedriver.chromium.org/downloads>
+
+Activez l'environnement pyhton avec la commande: `source ./scrap_env/bin/activate`
+
+Pour lancer le code:
 `python3 ./scraper.py`

@@ -151,9 +151,7 @@ def exporting(data):
 if __name__ == "__main__":
     sites = [
         ["tesla", "tesla contact", "https://www.tesla.com"],
-        # ["webxify", "webxify", "https://webxify.com"],
-        # ["cours en ligne en france", "openclassroom", "https://openclassrooms.com"],
-        # ["flemking", "flemking", "https://flemking.com"]
+        ["cours en ligne en france", "openclassroom", "https://openclassrooms.com"],
     ]
     try:
         for site in sites:
